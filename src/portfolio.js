@@ -180,8 +180,7 @@ const workExperiences = {
       company: 'Dhanu Infotech',
       companylogo: require('./assets/images/dhanu3.png'),
       date: 'Dec 2020 – Present',
-      desc:
-        'Currently working as a Software developer.',
+      //desc: 'Currently working as a Software developer.',
       descBullets: [
         'Worked on an E-Commerce Web Application built using React and Redux for front-end, and Node.js and MongoDB for backend.',
         `Currently under testing, this website uses a ton of external React libraries, OneSignal for notifications and PayUMoney's BOLT gateway for payments.`,
@@ -192,8 +191,7 @@ const workExperiences = {
       company: `Let's Develop It`,
       companylogo: require('./assets/images/ldi.jpeg'),
       date: 'Nov 2020 – Dec 2020',
-      desc:
-        'Developed an Admin Panel for a website and integrated the fornt-end to the backend of the website.',
+      //desc: 'Developed an Admin Panel for a website and integrated the fornt-end to the backend of the website.',
       descBullets: [
         'Worked on the front-end of a website, built on React framework and its various popular libraries like Context and Hooks, deployed on Firebase.',
         'Developed an Admin Panel for the same website to ensure trouble-free content management on the web and mobile application.'
